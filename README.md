@@ -1,0 +1,1 @@
+This is mostly a sample configuration, attaching to port 8080 on host. Copy `settings.env.sample` and adjust it accordingly (see compose yaml); together with: firewall settings, DNS, TLS certificates, off-site Backups, etc.
